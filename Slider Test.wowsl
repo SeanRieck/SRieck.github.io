@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>9.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>fade</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>35</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Slider Test</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>500</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/bootstrap/</ImageTemplate>
+            <ImageTemplateName>Bootstrap</ImageTemplateName>
+            <ImageWidth>1200</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/Adobe Files/GRC 175/webfiles/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>D:/Adobe Files/GRC 175/webfiles</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>50</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Source Sans Pro</TemplateFont>
+            <TemplateName>bootstrap</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Adobe Files/GRC 175/webfiles/front-view-immunity-boosting-foods-with-citrus-ginger.jpg</url>
+                <title>Penny Juice of America Strives To Give You The Upmost In Childcare Juice</title>
+                <filesize>145245</filesize>
+            </Image>
+            <Image>
+                <url>D:/Adobe Files/GRC 175/webfiles/grapes-strawberries-pineapple-kiwi-apricot-banana-whole-pineapple.jpg</url>
+                <title>Fresh Ingredients Sourced From All Over The Country </title>
+                <filesize>344921</filesize>
+            </Image>
+            <Image>
+                <url>D:/Adobe Files/GRC 175/webfiles/composition-fruit-juices-black-background.jpg</url>
+                <title>100% Real Fruit Juice Concentrate. No Sugar Added!</title>
+                <filesize>135474</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
