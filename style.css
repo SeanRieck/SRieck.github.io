@@ -296,7 +296,7 @@ ion-icon  {
     margin-top: 0px;
     margin-bottom: 20px;
     flex-wrap: wrap;
-
+    width: 250px;
     text-align: center;
 }
 .boilerplate  {
