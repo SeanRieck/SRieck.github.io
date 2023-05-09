@@ -17,7 +17,6 @@ h3, h4, {
 a {
     text-decoration: none;
 }
-
 #container {
     background-color: #ffffff;
     width: 100%px;
@@ -199,10 +198,9 @@ scale: 90%;
     flex: 1;
     background-color: #ffffff;
     color: #fbaf3f;
-    height: 40px;
+   font-size: 20px;
     text-align: inline-block;
-    padding: 0px 60px;
-    border-spacing: 10px;
+    padding: 0px 90px 0px 90px;
     border-radius: 12px;
 }
 .column3 {
@@ -211,10 +209,10 @@ scale: 90%;
     flex: 1;
     background-color: #fbaf3f;
     color: white;
-    padding: 5px 50px 5px 50px;
+    padding: 5px 0px 5px 0px;
     text-align: center;
     display: inline-block;
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 50px;
     margin-right: 100px;
     margin-left: 100px;
@@ -255,10 +253,10 @@ scale: 90%;
 }
 .flex-container {
     display: flex;
-    margin-top: 20px;
+    margin-top: 0px;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     flex-wrap: wrap;
     width: 150px;
     text-align: center;
@@ -273,29 +271,39 @@ ion-icon  {
     margin-left: auto;
 }
 .column6 :hover {
-    background-color: #ffffff;
-    color: #fbaf3f;
+    background-color: #9edcf0;
+    color: white;
     width: 100%;
     display: inline-block;
     font-size: 20px;
-    border-radius: 0px;
-    padding: 0px 0px 0px 0px
+    border-radius: 12px;
+    
 }
 .column6 {
     background-color: #fbaf3f;
-    color: white;
-    padding: 5px 60px 5px 60px;
+    width: 100%;
     text-align: center;
     display: inline-block;
     font-size: 20px;
-    margin-bottom: 60px;
+    margin-bottom: 0px;
     margin-right: 50px;
     border-radius: 12px;
+    margin-top: 20px
+}
+
+.flex-container2 {
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+
+    text-align: center;
 }
 .boilerplate  {
     background-color: #fbaf3f;
     padding: 5px 0px 5px 0px;
     text-align: center;
+    color: white;
 }
 
 /*------------------- Style for About -------------------*/
@@ -311,7 +319,7 @@ ion-icon  {
     font-size: 18px;
     border-spacing: 10 px;
     margin-top: 10px;
-    color: white;
+    color: black;
 }
 .header1 {
     width: 100%;
@@ -331,7 +339,7 @@ ion-icon  {
     font-size: 18px;
     border-spacing: 10px;
     margin-top: 10px;
-    color: white;
+    color: black;
     text-align: justify;
     margin-left: 30px;
 }
@@ -375,7 +383,7 @@ ion-icon  {
 }
 .column9 {
     display: inline-block;
-    color: white;
+    color: black;
     text-align: left;
     font-size: 16px;
     margin-left: 100%;
